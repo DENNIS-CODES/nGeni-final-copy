@@ -2,7 +2,7 @@
 Behind every BLOCKCHAIN and FINTECH success, you have a diehard team of Software Engineers !. mEET nGeni Engineers, a wildly talented and clever bunch, cool Engineers
 - `NB: At nGeni we are a team of Engineers and not designers`
 
-After Many `let Downs` from diffrent `Designers` His Madness(JJo3l) Made a decision that our story will be expressed through [Brutalist web Design](https://www.nngroup.com/articles/brutalism-antidesign/). we nicknamed it our Ugly version 4 website 
+On Many `let Downs` from diffrent `Designers` His Madness(JJo3l) Made a decision that our story will be expressed through [Brutalist web Design](https://www.nngroup.com/articles/brutalism-antidesign/). we nicknamed it our Ugly version 4 website 
 
 # Our nGeni website has 6 sections:
 - who we are as nGeni
