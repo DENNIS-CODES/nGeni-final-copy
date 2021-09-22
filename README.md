@@ -27,6 +27,8 @@ On Many `let Downs` from diffrent `Designers` His Madness(JJo3l) Made a decision
 |------------------------------|---------------------------|-----------------------------|
       17 SEPT, 22:31 EAT               jOURNEY😡                    nGeni            
 
+# Live preview
+[ngeni.io](https://ngeni.io)
 
 
 
