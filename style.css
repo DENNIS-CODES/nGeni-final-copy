@@ -75,3 +75,49 @@ th, td {
     width: 100%;
   }
   
+  /* Footer */
+  /* Terms of use  */
+  body {
+    background-color: white;
+    margin: 5px 50px 50px 0;
+    padding: 50px;
+    font-family: 'Times new Roman';
+    font-weight: 100;
+    text-align: center;
+    
+  }
+  .terms {
+    font-family:'Whyte, sans-serif';
+    font-weight: 900;
+    font-size: xx-large;
+    text-decoration: none;
+    color: #2A265F;
+  }
+  p.c13-c11-c9 {
+    font-weight: bolder;
+    font-family: sans-serif;
+  }
+
+  .disclaimer {
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Whyte, sans-serif';
+    color: #2A265F;
+  }
+
+  .terms-para {
+    color: black;
+    background-color: white;
+    font-family: 'Whyte, sans-serif';
+    font-size: larger;
+    text-align: center;
+  }
+  .disclaimer-para {
+    color: black;
+    background-color: white;
+    font-family: 'Whyte, sans-serif';
+    font-size: larger;
+    text-align: center;
+  }
+
+/* Privacy Policy */

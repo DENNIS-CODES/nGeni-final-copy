@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Muli", sans-serif;
+  align-items: center;
+  justify-content: center;
+  background-color: #434343 ;
+  /* padding: 20px; */
+}
+
+.navbar-custom {
+  padding-bottom: 10px;
+  background-color: black;
+  color: white;
+}
+.navbar-custom .navbar-brand{
+    color: #ffffff;
+}
+.navbar-custom .navbar-item{
+  color: wheat;
+}
+.lnG {
+  font-family: Whyte, sans-serif;
+  font-weight: 900;
+  letter-spacing: 2px;
+ 
+}
+.event {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+  display: flex;
+  max-width: 100%;
+  margin: 20px;
+  overflow: auto;
+  width: 96%;
+}
+
+.event h7 {
+  opacity: 0.6;
+  margin: 0;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.event h2 {
+  letter-spacing: 1px;
+  margin: 10px 0;
+}
+
+.event-preview {
+  background-color: black;
+  color: #fff;
+  padding: 30px;
+  width: 100%;
+}
+
+.event-preview a {
+  color: #fff;
+  display: inline-block;
+  font-size: 12px;
+  opacity: 0.6;
+  margin-top: 30px;
+  text-decoration: none;
+}
+
+.event-preview .bt a {
+  color:black;
+  display: inline-block;
+  font-size: 15px;
+  opacity: 1;
+  margin-top: 30px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.event-info {
+  padding: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.btn {
+  background-color: #fff;
+  border: 0;
+  border-radius: 50px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+  color: #fff;
+  font-size: 16px;
+  padding: 12px 25px;
+  position: relative;
+  bottom: 7px;
+  letter-spacing: 1px;
+}
+
+@media screen and (max-width: 480px) {
+  .floating-btn {
+    right: 10px;
+  }
+
+}
